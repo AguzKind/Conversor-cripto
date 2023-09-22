@@ -1,12 +1,13 @@
 # Conversor Criptomonedas
 
-Este programa fue realizado a modo de aprendizaje/practica con las siguientes tecnologías y herramientas:
+Esta web fue realizada a modo de aprendizaje/practica con las siguientes tecnologías y herramientas:
 - React
 - Styled components
 - API Rest (https://cryptocompare.com)
 - Github
 
 El mismo fue realizado el 21/09/2023. El proyecto fue mas que nada para practicar el consumo de APIS en en front-end y creacion de nuevos hooks en React.
+Podes probar el sitio al mismo por este [link!](https://conversor-cripto.netlify.app/)
 
 ## Funcionalidad 
 El usuario selecciona la moneda deseada y la criptomoneda a convertir. Luego, muestra como resultado:
